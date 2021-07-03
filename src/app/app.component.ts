@@ -1,4 +1,5 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
+declare var PaymentCheckout: any;
 
 @Component({
   selector: 'app-root',
